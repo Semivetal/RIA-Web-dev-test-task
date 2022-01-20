@@ -9,4 +9,4 @@ module.exports=function(e){const t=e.filter(({name:t,know:n})=>!n.length&&e.filt
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=t(require("./peopleArray.json")),r=t(require("./js/narcissus")),s=require("./js/refs");function t(e){return e&&e.__esModule?e:{default:e}}function a(s){s.preventDefault(),"BUTTON"===s.target.nodeName&&"BUTTON"===s.target.nodeName&&(0,r.default)(e.default)}require("./sass/main.scss"),s.refs.scanBtn.addEventListener("click",a);
 },{"./peopleArray.json":"JFpC","./js/narcissus":"WFgn","./js/refs":"VyiV","./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/RIA-Web-dev-test-task/src.c2ef0476.js.map
+//# sourceMappingURL=/RIA-Web-dev-test-task/src.21634117.js.map
