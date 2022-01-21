@@ -1,7 +1,7 @@
-import people from "./peopleArray.json";
-import FindNarcissusFrom from "./js/narcissus";
-import { refs } from "./js/refs";
-import "./sass/main.scss";
+import people from "./src/peopleArray.json";
+import FindNarcissusFrom from "./src/js/narcissus";
+import { refs } from "./src/js/refs";
+import "./src/sass/main.scss";
 
 refs.scanBtn.addEventListener('click', onScan)
 
