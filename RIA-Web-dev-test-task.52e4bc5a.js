@@ -9,4 +9,4 @@ module.exports=function(n){const e=function(n){let e=n.length,t="",r=0,o=1,i=[];
 },{}],"S3PC":[function(require,module,exports) {
 "use strict";var e=t(require("./src/peopleArray.json")),r=t(require("./src/js/narcissus")),s=require("./src/js/refs");function t(e){return e&&e.__esModule?e:{default:e}}function a(s){s.preventDefault(),"BUTTON"===s.target.nodeName&&"BUTTON"===s.target.nodeName&&(0,r.default)(e.default)}require("./src/sass/main.scss"),s.refs.scanBtn.addEventListener("click",a);
 },{"./src/peopleArray.json":"JFpC","./src/js/narcissus":"WFgn","./src/js/refs":"VyiV","./src/sass/main.scss":"clu1"}]},{},["S3PC"], null)
-//# sourceMappingURL=/RIA-Web-dev-test-task/RIA-Web-dev-test-task.e086c39e.js.map
+//# sourceMappingURL=/RIA-Web-dev-test-task/RIA-Web-dev-test-task.52e4bc5a.js.map
